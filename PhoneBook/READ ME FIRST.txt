@@ -1,0 +1,8 @@
+PHONEBOOK IN PHP
+
+**Login Details**
+
+Username: stergios
+Password: pass
+
+OTHERWISE FEEL FREE TO CREATE YOUR OWN ACCOUNT
